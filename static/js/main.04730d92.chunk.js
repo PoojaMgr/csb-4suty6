@@ -1,0 +1,2 @@
+(this.webpackJsonpqrcode=this.webpackJsonpqrcode||[]).push([[0],{23:function(e,t,c){},25:function(e,t,c){"use strict";c.r(t);var n=c(0),o=c(8),r=c.n(o),s=c(9),a=c.n(s),i=(c(23),c(1));function d(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)(a.a,{value:"Hello Pooja"})})}var j=document.getElementById("root");r.a.render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(d,{})}),j)}},[[25,1,2]]]);
+//# sourceMappingURL=main.04730d92.chunk.js.map
